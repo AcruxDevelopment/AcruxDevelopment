@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AcruxStudios
-- 👀 I’m interested in Game Development, Unity C# and Compilers
-- 🌱 I’m currently learning Rust, C++
+# ACRUX STUDIOS
+@AcruxStudios is a small group of developers dedicated to create Tools, Experimentak "Joke" Programming Languages, Games, Etc.
+Languages Used: C#, C++, Python, Java.
+Technology: The .NET Framework, Unity Engine
 
 <!---
 AcruxStudios/AcruxStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
